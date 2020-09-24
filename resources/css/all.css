@@ -1,0 +1,12 @@
+.action{
+    width: 250px;
+    text-align: center;
+}
+
+.id-col {
+    width: 50px;
+}
+
+.pagination {
+    justify-content: center;
+}
